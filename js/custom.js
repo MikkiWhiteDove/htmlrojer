@@ -3,7 +3,7 @@
 		         
 		         setInterval((function(){
 		         		++degrees;
-		          	 $('.box1').css('background-image', 'linear-gradient(' + degrees + 'deg, #FF0000, #0000FF');
+		          	 $('.box1').css('background-image', 'linear-gradient(' + degrees + 'deg, #ffffff, #000000');
 		         		
 		         }), 6000/360)
 
